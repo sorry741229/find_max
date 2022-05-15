@@ -5,7 +5,7 @@ def find_max(a_list):
 	for num in a_list :
 		if num > max_num:
 			max_num = num
-		return max_num
+	return max_num
 	
 
 
